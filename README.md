@@ -76,3 +76,21 @@ Prajwal Kale
 B.Tech Instrumentation & Control Engineering
 
 VIT Pune
+
+## Screenshots
+
+### Complete Simulink Model
+
+![Model](full_model.png.png)
+
+### Water Level Response
+
+![Water Level](water_level_scope.png.png)
+
+### Temperature Response
+
+![Temperature](temperature_scope.png.png)
+
+### Monitoring Dashboard
+
+![Dashboard](dashboard.png.png)
